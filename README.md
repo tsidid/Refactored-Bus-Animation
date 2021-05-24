@@ -1,2 +1,2 @@
 # Refactored-Bus-Animation
-Bus route 
+This assignment, tracks a Bus along its route.
